@@ -1,0 +1,8 @@
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Server\Server\bin\Debug\Server.exe.config
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Server\Server\bin\Debug\Server.exe
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Server\Server\bin\Debug\Server.pdb
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Server\Server\obj\Debug\Server.exe
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Server\Server\obj\Debug\Server.pdb
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Server\Server\obj\Debug\Server.Form1.resources

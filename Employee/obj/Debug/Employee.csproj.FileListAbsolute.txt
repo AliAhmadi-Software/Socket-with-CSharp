@@ -1,0 +1,8 @@
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Employee\bin\Debug\Employee.exe.config
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Employee\bin\Debug\Employee.exe
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Employee\bin\Debug\Employee.pdb
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Employee\obj\Debug\Employee.Form1.resources
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Employee\obj\Debug\Employee.Properties.Resources.resources
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Employee\obj\Debug\Employee.exe
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Employee\obj\Debug\Employee.pdb

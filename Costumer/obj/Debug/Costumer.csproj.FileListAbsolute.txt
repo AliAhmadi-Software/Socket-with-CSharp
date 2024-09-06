@@ -1,0 +1,9 @@
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\bin\Debug\Costumer.exe.config
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\bin\Debug\Costumer.exe
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\bin\Debug\Costumer.pdb
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\obj\Debug\Costumer.csprojResolveAssemblyReference.cache
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\obj\Debug\Costumer.Form1.resources
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\obj\Debug\Costumer.Properties.Resources.resources
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\obj\Debug\Costumer.csproj.GenerateResource.Cache
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\obj\Debug\Costumer.exe
+E:\FaraDars.org\FVCS9410\FVCS9410-S1\Files And Codes\Costumer\obj\Debug\Costumer.pdb
